@@ -85,7 +85,7 @@ return [
     |
     */
 
-    'dashboard_url' => 'home',
+    'dashboard_url' => 'admin',
 
     'logout_url' => 'logout',
 
@@ -111,7 +111,7 @@ return [
         'Menu',
         [
             'text'        => 'Home',
-            'url'         => 'home',
+            'url'         => 'admin',
             'icon'        => 'home',
             'label'       => 4,
             'label_color' => 'success',
